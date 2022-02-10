@@ -5,6 +5,7 @@
 </div>
 
 ## :computer: Projeto
+
 Dory é uma aplicação web que tem como objetivo ajudar os alunos de Sistemas e Mídias Digitais da UFC a encontrarem um professor orientador para seu TCC.
 
 
