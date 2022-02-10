@@ -6,20 +6,7 @@
 
 ## :computer: Projeto
 
-Dory é uma aplicação web que tem como objetivo ajudar os alunos de Sistemas e Mídias Digitais da UFC a encontrarem um professor orientador para seu TCC.
-
-
-## :rocket: Tecnologias
-
-Este projeto foi desenvolvido com as seguintes tecnologias:
-
-- [React](https://reactjs.org)
-- [NodeJS](https://nodejs.org/en/)
-- [MongoDB](https://www.mongodb.com/)
-- [Express](https://expressjs.com/)
-- [Mongoose](https://mongoosejs.com/)
-- [JSON Web Token](https://jwt.io/introduction)
-- [Nodemailer](https://nodemailer.com/about/)
+Dory é uma aplicação web que tem como objetivo ajudar os alunos de Sistemas e Mídias Digitais, da Universidade Federal do Ceará, a encontrarem um professor orientador para o seu TCC. O projeto foi desenvolvido durante a disciplina de Projeto Integrado I no semestre 2021.2 pela equipe Spaceship, formada por [Larissa Araújo](https://github.com/araujlarissa), [Letícia Torres](https://github.com/leticialimatorres) e [Myguel Angello](https://github.com/myguelangello).
 
 ## :pushpin: Requisitos funcionais
 
@@ -435,6 +422,10 @@ Diretório (front): src/pages/VisualizarAluno.js Linha 17 a 20.
 ## :memo: Licença
 
 Este projeto está sob a licença MIT. Veja o [LICENSE](https://img.shields.io/badge/License-ISC-yellow.svg) para maiores informações.
+
+## :love_letter: Contribua com o projeto!
+
+Você é do SMD e se interessou pelo projeto? Que tal contribuir com o desenvolvimento da aplicação? É só entrar em contato com esse [email](lariaraujo201@gmail.com), que batemos um papo 🐟 
 
 ---
 
