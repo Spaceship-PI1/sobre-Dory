@@ -1,7 +1,7 @@
 <h1 align="center">Dory 🐟</h1>
 
 <div align="center">
-  <a href="*"><img title="Dory" src="cover.svg" /></a>
+  <a href="*"><img title="Dory" src="logo.svg" /></a>
 </div>
 
 ## :computer: Projeto
@@ -12,6 +12,7 @@ Dory é uma aplicação web que tem como objetivo ajudar os alunos de Sistemas e
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
+- [React](https://reactjs.org)
 - [NodeJS](https://nodejs.org/en/)
 - [MongoDB](https://www.mongodb.com/)
 - [Express](https://expressjs.com/)
@@ -362,19 +363,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
     <td></td>
   </tr> -->
 </table>
-
-
-## :bulb: Como instalar
-
-```sh
-npm install
-```
-
-## :running_woman: Como executar
-
-```sh
-npm run dev
-```
 
 ## :memo: Licença
 
