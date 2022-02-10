@@ -425,6 +425,11 @@ Diretório (front): src/pages/VisualizarAluno.js Linha 17 a 20.
 
 Este projeto está sob a licença MIT. Veja o [LICENSE](https://img.shields.io/badge/License-ISC-yellow.svg) para maiores informações.
 
+## :love_letter: Quer contribuir com o projeto?
+
+Você é do SMD e se interessou pelo projeto? Que tal contribuir com o desenvolvimento da aplicação? 🤔 É só entrar em contato que batemos um papo 🐟
+Email: lariaraujo201@gmail.com 
+
 ---
 
 Feito com 💜 by [Spaceship](https://github.com/Spaceship-PI1)
