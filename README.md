@@ -2,6 +2,7 @@
 
 <div align="center">
   <a href="*"><img title="Dory" src="logo.svg" style="width: 440px;" /></a>
+  <img src="mockup.png" />
 </div>
 
 ## :computer: Projeto
