@@ -41,7 +41,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
       O aluno/professor precisa se cadastrar e inserir informações como nome,
       sobrenome, e-mail, senha e tipo de perfil para ter acesso a aplicação.
     </td>
-    <td>Diretório: src/app/controllers/authController.js. Linha: 18 até 55.</td>
+    <td>Diretório (back): src/app/controllers/authController.js. Linha: 18 até 55.
+    <br>
+    Diretório (front): src/pages/Cadastro.js
+    </td>
   </tr>
   <tr>
     <td>RF G002 / Autenticar (login)</td>
