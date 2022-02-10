@@ -427,8 +427,7 @@ Este projeto está sob a licença MIT. Veja o [LICENSE](https://img.shields.io/b
 
 ## :love_letter: Quer contribuir com o projeto?
 
-Você é do SMD e se interessou pelo projeto? Que tal contribuir com o desenvolvimento da aplicação? 🤔 <br/>
-É só entrar em contato que batemos um papo 🐟 <br/>
+Você é do SMD e se interessou pelo projeto? Que tal contribuir com o desenvolvimento da aplicação? É só entrar em contato que batemos um papo 🐟 <br/>
 Email: lariaraujo201@gmail.com 
 
 ---
