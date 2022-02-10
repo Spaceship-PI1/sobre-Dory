@@ -20,7 +20,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [JSON Web Token](https://jwt.io/introduction)
 - [Nodemailer](https://nodemailer.com/about/)
 
-## :pushpin: Requisitos
+## :pushpin: Requisitos funcionais
 
 <table>
   <tr>
