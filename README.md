@@ -1,5 +1,3 @@
-<h1 align="center">Dory 🐟</h1>
-
 <div align="center">
   <a href="*"><img title="Dory" src="logo.svg" style="width: 300px;" /></a>
 </div>
