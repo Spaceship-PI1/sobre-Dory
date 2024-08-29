@@ -6,6 +6,9 @@
 
 Dory é uma aplicação web que tem como objetivo ajudar os alunos de Sistemas e Mídias Digitais, da Universidade Federal do Ceará, a encontrarem um professor orientador para o seu TCC. O projeto foi desenvolvido durante a disciplina de Projeto Integrado I no semestre 2021.2 pela equipe Spaceship, formada por [Larissa Araújo](https://github.com/araujlarissa), [Letícia Torres](https://github.com/leticialimatorres) e [Myguel Angello](https://github.com/myguelangello).
 
+#### [Link do repositório backend](https://github.com/Spaceship-PI1/dory-back-end)
+#### [Link do repositório frontend](https://github.com/Spaceship-PI1/dory-front-end)
+
 <div align="center">
   <img src="mockup.png" style="width: 800px;" />
 </div>
